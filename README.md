@@ -1,8 +1,8 @@
 ## STOPWTACH WEB APP ##
 ----------------------------------------------
 
-A fully functional Stpowatch web application which contains functions for starting,pausing,and resetting the stopwatch,as well as tracking and displaying lap times.
-Users can accurately measure nad record time.
+A fully functional and simple Stpowatch web application which contains functions for starting,pausing,and resetting the stopwatch,as well as tracking and displaying lap times.
+Users can accurately measure nad record time.Consider it as a begginer-frienedly or beginner-made web application as it doestn't uses any frontends or backeneds.
 
     # Built with
 
